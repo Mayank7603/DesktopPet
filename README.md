@@ -17,7 +17,7 @@ A cute animated desktop companion for Windows!
 
 ### [⬇️ Download Latest Version](https://github.com/Mayank7603/DesktopPet/releases/latest)
 
-1. Download `DesktopPet_Installer_v1.0.0.zip`
+1. Download `DesktopPet_Installer_v1.0.1.zip`
 2. Extract the ZIP file
 3. Run `Install.bat` (right-click → Run as administrator)
 4. Done! Find Desktop Pet on your Desktop or Start Menu
